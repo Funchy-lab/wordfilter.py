@@ -1,2 +1,2 @@
-# wordfilter.py
+# wordfilter
 Filters words.
