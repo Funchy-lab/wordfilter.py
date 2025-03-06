@@ -1,0 +1,2 @@
+# wordfilter.py
+Filters words.
